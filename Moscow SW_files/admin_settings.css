@@ -1,0 +1,11 @@
+.information {
+	color: #0099FF;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+li#menu-posts-sw_events a, li#toplevel_page_sw-settings a {
+	color: red;
+}
+li#menu-posts-sw_events li a {
+	color: #21759B;
+}
